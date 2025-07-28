@@ -169,7 +169,7 @@ git clone https://github.com/AdityaBhatt3010/Red-Team-Arsenal
 cd Red-Team-Arsenal
 
 # Build the Docker image
-docker build -t redteam-arsenal .
+docker build -t red-team-arsenal .
 
 # Run the container
 docker run -it --rm \
